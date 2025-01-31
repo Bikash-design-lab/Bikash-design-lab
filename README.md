@@ -84,3 +84,5 @@ As a budding web developer, I'm thrilled to share the progress of my latest proj
 Contact Me : <a href="https://www.linkedin.com/in/bikash-prasad-barnwal-a3720a229/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ## 📊 GitHub Calendar
+Check out my live commit calendar below: 
+⬇️
