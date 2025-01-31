@@ -1,4 +1,4 @@
-# Hi, I'm Bikash Prasad Barnwal! https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png 🚀
+# Hi, I'm Bikash Prasad Barnwal! 👋 🚀
 
 ## Full Stack Web Developer | MERN Stack Enthusiast
 
@@ -16,6 +16,9 @@ Passionate about building scalable web applications with a strong problem-solvin
 - 🌍 From **Raniganj, West Bengal**
 
 🔗 <a href="https://dulcet-taiyaki-bfeade.netlify.app/" target="_blank" rel="noopener noreferrer">Visit My Portfolio</a>
+
+![Coding GIF](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
+
 
 ---
 
@@ -62,9 +65,7 @@ As a budding web developer, I'm thrilled to share the progress of my latest proj
 
 ---
 
-## 📊 GitHub Calendar
 
-![Screenshot 2025-01-30 184848](https://github.com/user-attachments/assets/75810c59-667b-4fa8-8c75-c054ba962667)
 
 
 ---
@@ -80,3 +81,6 @@ As a budding web developer, I'm thrilled to share the progress of my latest proj
 ---
 
 🚀 **Let's build something amazing together!**
+Contact Me : <a href="https://www.linkedin.com/in/bikash-prasad-barnwal-a3720a229/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+## 📊 GitHub Calendar
