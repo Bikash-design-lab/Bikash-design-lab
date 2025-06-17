@@ -13,9 +13,9 @@ Passionate about building scalable web applications with a strong problem-solvin
 - 💡 Skilled in **building dynamic & responsive applications**
 - 📈 Quick to adapt to **new technologies** and continuously expanding my expertise.
 - 🎯 Currently learning **React.js, Redux state management, and TypeScript**
-- 🌍 From **Raniganj, West Bengal**
+- 🌍 From **West Bengal**
 
-🔗 <a href="https://dulcet-taiyaki-bfeade.netlify.app/" target="_blank" rel="noopener noreferrer">Visit My Portfolio</a>
+🔗 <a href="https://statuesque-salamander-97bcbe.netlify.app/" target="_blank" rel="noopener noreferrer">Visit My Portfolio</a>
 
 ![Coding GIF](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
