@@ -38,6 +38,7 @@ As a budding web developer, I'm thrilled to share the progress of my latest proj
   
 <img width="1897" height="856" alt="Screenshot 2025-07-11 193713" src="https://github.com/user-attachments/assets/6c6fdfd5-d2f1-42ec-b980-2940f2fb6a45" />
 
+<img width="1880" height="862" alt="Screenshot 2025-07-11 210958" src="https://github.com/user-attachments/assets/7fc9b2e8-4743-4369-b328-1a62c79e932b" />
 
 ---
 
