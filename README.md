@@ -22,19 +22,21 @@ Passionate about building scalable web applications with a strong problem-solvin
 
 ---
 
-## 🔥<a href="https://luxury-biscuit-1b76c2.netlify.app/ " target="_blank" rel="noopener noreferrer"> My Latest Project: NexBuy</a>
-A feature-rich **e-commerce platform** built with modern web technologies.
+## 🔥<a href="https://voice-note-3d8b.vercel.app/" target="_blank" rel="noopener noreferrer"> My Latest Project: VoiceNote</a>
+A feature-rich **VoiceNote platform** built with modern web technologies.
 
 ### 🚀 Exciting Milestones in My Development Journey! 🚀
-As a budding web developer, I'm thrilled to share the progress of my latest project: an **E-Commerce Website** built with React and other cutting-edge web technologies.
+As a budding web developer, I'm thrilled to share the progress of my latest project: an **VoiceNote** built with React and other cutting-edge web technologies.
 
 ### Key Features Implemented:
-- **User Authentication & Authorization:** Implemented Protected Routes ensuring secure access control.
-- **Dynamic Content Display:** Utilizing `useState` & `useEffect` for fetching and displaying product data dynamically.
-- **Product Showcases:** Interactive product cards with pricing, discounts, and detailed information.
-- **Loader Integration:** A smooth loading experience while fetching data from the server.
-- **Responsive Design:** Tailwind CSS ensures seamless adaptation across different devices.
-  ![Screenshot 2025-01-30 185640](https://github.com/user-attachments/assets/ca44e278-d0d5-4bca-9556-f8eebfc948ab)
+- **Voice Input** : Speech-to-text conversion using react-speech-recognition
+- **AI Refinement**: Grammar correction and slang filtering with integrated AI
+- **Local Storage**: Persistent message saving without registration
+- **Message Control**: Edit and permanently delete messages
+- **Text-Free Interaction**: Eliminates need for manual typing through voice-first input
+
+  
+<img width="1897" height="856" alt="Screenshot 2025-07-11 193713" src="https://github.com/user-attachments/assets/6c6fdfd5-d2f1-42ec-b980-2940f2fb6a45" />
 
 
 ---
