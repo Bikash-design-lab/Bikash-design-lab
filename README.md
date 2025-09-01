@@ -6,7 +6,7 @@ Passionate about building scalable web applications with a strong problem-solvin
 
 ---
 # [Bento Profile](https://bento.me/bikash-prasad-barnwal)
-
+# [Visit My Portfolio](https://statuesque-salamander-97bcbe.netlify.app/)
 ## 🚀 About Me
 
 - 🔥 **Full Stack Web Developer** with expertise in the **MERN stack**
@@ -16,7 +16,6 @@ Passionate about building scalable web applications with a strong problem-solvin
 - 🎯 Currently learning **React.js, Redux state management, and TypeScript**
 - 🌍 From **West Bengal**
 
-🔗 <a href="https://statuesque-salamander-97bcbe.netlify.app/" target="_blank" rel="noopener noreferrer">Visit My Portfolio</a>
 
 ![Coding GIF](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
