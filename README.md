@@ -33,14 +33,11 @@ Passionate about building scalable web applications with a strong problem-solvin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash-design-lab&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Coding GIF" width="300" />
 </p>
-
 ---
 
-![Coding GIF](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
-
----
 
 ## 🔥<a href="https://voice-note-3d8b.vercel.app/" target="_blank" rel="noopener noreferrer"> My Latest Project: VoiceNote</a>
 A feature-rich **VoiceNote platform** built with modern web technologies.
