@@ -26,16 +26,14 @@ Passionate about building scalable web applications with a strong problem-solvin
 
 ---
 ## 📊 GitHub Dashboard
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bikash-design-lab&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Bikash-design-lab&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash-design-lab&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
