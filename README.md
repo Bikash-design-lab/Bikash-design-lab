@@ -11,8 +11,15 @@
 Passionate about building scalable web applications with a strong problem-solving mindset and a collaborative approach. I have **1200+ hours of coding experience** and thrive on learning new technologies, including **Generative AI**.
 
 ---
-# [Bento Profile](https://bento.me/bikash-prasad-barnwal)
-# [Visit My Portfolio](https://statuesque-salamander-97bcbe.netlify.app/)
+<p align="center">
+  <a href="https://bento.me/bikash-prasad-barnwal">
+    🌐 Explore My Developer Profile
+  </a> • 
+  <a href="https://statuesque-salamander-97bcbe.netlify.app/">
+    💼 View My Projects & Portfolio
+  </a>
+</p>
+
 ## 🚀 About Me
 
 - 🔥 **Full Stack Web Developer** with expertise in the **MERN stack**
