@@ -15,6 +15,9 @@ Passionate about building scalable web applications with a strong problem-solvin
 - 📈 Quick to adapt to **new technologies** and continuously expanding my expertise.
 - 🎯 Currently learning **React.js, Redux state management, and TypeScript**
 - 🌍 From **West Bengal**
+- 📃 [Resume](https://drive.google.com/file/d/1PAIcz3zjrIYvXF4ntgAiBSaEN2ktr9dn/view?usp=sharing)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Hey!+I'm+Rahul+👋;Full+Stack+Developer+💻;Always+learning+new+things+🚀)](https://git.io/typing-svg)
 
 
 ![Coding GIF](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
