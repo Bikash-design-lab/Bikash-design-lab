@@ -24,7 +24,20 @@ Passionate about building scalable web applications with a strong problem-solvin
 - 🌍 From **West Bengal**
 - 📃 [Resume](https://drive.google.com/file/d/1PAIcz3zjrIYvXF4ntgAiBSaEN2ktr9dn/view?usp=sharing)
 
+---
+## 📊 GitHub Dashboard
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
+---
 
 ![Coding GIF](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
