@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&vCenter=true&width=600&lines=Hey!+I'm+Bikash+Prasad+Barnwal👋;Full+Stack+Developer+💻;Always+learning+new+things+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&vCenter=true&width=800&lines=Hey!+I'm+Bikash+Prasad+Barnwal👋;Full+Stack+Developer+💻;Always+learning+new+things+🚀" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 ## Full Stack Web Developer | MERN Stack Enthusiast
