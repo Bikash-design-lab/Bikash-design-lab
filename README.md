@@ -6,7 +6,7 @@
 
 
 
-## Full Stack Web Developer | MERN Stack Enthusiast
+## 🚀 MERN Stack Developer
 
 Passionate about building scalable web applications with a strong problem-solving mindset and a collaborative approach. I have **1200+ hours of coding experience** and thrive on learning new technologies, including **Generative AI**.
 
