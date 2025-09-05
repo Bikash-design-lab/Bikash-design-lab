@@ -22,7 +22,8 @@ Passionate about building scalable web applications with a strong problem-solvin
 - 📈 Quick to adapt to **new technologies** and continuously expanding my expertise.
 - 🎯 Currently learning **React.js, Redux state management, and TypeScript**
 - 🌍 From **West Bengal**
-- 📃 <a href="https://drive.google.com/file/d/1PAIcz3zjrIYvXF4ntgAiBSaEN2ktr9dn/view?usp=sharing"><h1>RESUME</h1> </a>
+- 📃 <a href="https://drive.google.com/file/d/1PAIcz3zjrIYvXF4ntgAiBSaEN2ktr9dn/view?usp=sharing" target="_blank" rel="noopener noreferrer">RESUME</a>
+
 
 ---
 ## 📊 GitHub Dashboard
