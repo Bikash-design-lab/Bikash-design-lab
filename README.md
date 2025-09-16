@@ -38,7 +38,12 @@ Passionate about building scalable web applications with a strong problem-solvin
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0f99b9a3-b04c-4dd0-a09f-43d8077d5e38" alt="LeetCode Badge" width="150" />
+  <br/>
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+   🎮 Level Up: 50 Days of LeetCode Mastered! 🏆 Keep Grinding! 🚀
+  </marquee>
 </p>
+
 
 ## 🔥<a href="https://voice-note-3d8b.vercel.app/" target="_blank" rel="noopener noreferrer"> My Latest Project: VoiceNote</a>
 A feature-rich **VoiceNote platform** built with modern web technologies.
