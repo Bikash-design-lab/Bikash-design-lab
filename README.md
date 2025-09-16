@@ -44,6 +44,7 @@ Passionate about building scalable web applications with a strong problem-solvin
   </marquee>
 </p>
 
+</hr>
 
 ## 🔥<a href="https://voice-note-3d8b.vercel.app/" target="_blank" rel="noopener noreferrer"> My Latest Project: VoiceNote</a>
 A feature-rich **VoiceNote platform** built with modern web technologies.
