@@ -11,9 +11,10 @@
 Passionate about building scalable web applications with a strong problem-solving mindset and a collaborative approach. I have **1200+ hours of coding experience** and thrive on learning new technologies, including **Generative AI**.
 
 ---
-<img src="https://via.placeholder.com/24x24/4A90E2/FFFFFF?text=📦"alt="Bento Logo" width="24" height="24" style="vertical-align: middle; margin-right: 8px;"> 
-    Discover My Coding Journey on Bento
-# [💼 **View My Portfolio & Project's**](https://heybikash.vercel.app/)
+# [🌐 **Discover My Coding Journey on Bento**](https://bento.me/bikash-prasad-barnwal)
+
+# [💼 **View My Portfolio & Projects**](https://heybikash.vercel.app/)
+
 
 ## 🚀 About Me
 
@@ -107,10 +108,10 @@ As a budding web developer, I'm thrilled to share the progress of my latest proj
 ---
 
 ## 📩 Connect With Me
-<a href="https://heybikash.vercel.app/" target="_blank" rel="noopener noreferrer">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)</a>
-<a href="https://bento.me/bikash-prasad-barnwal" target="_blank" rel="noopener noreferrer">![Bento](https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=about.me&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/bikash-prasad-barnwal-a3720a229/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://heybikash.vercel.app/" target="_blank" rel="noopener noreferrer">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)</a>
 <a href="https://twitter.com/vmodi5425" target="_blank" rel="noopener noreferrer">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://bento.me/bikash-prasad-barnwal" target="_blank" rel="noopener noreferrer">![Bento](https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=about.me&logoColor=white)</a>
 <a href="https://wa.me/8250204797" target="_blank" rel="noopener noreferrer">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
 📧 **Email:** Vmodi5425@gmail.com
