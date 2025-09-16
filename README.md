@@ -12,7 +12,7 @@ Passionate about building scalable web applications with a strong problem-solvin
 
 ---
 # [🌐 **Explore My Developer Profile**](https://bento.me/bikash-prasad-barnwal)  
-# [💼 **View My Projects & Portfolio**](https://statuesque-salamander-97bcbe.netlify.app/)
+# [💼 **View My Portfolio & Project's**](https://heybikash.vercel.app/)
 
 ## 🚀 About Me
 
