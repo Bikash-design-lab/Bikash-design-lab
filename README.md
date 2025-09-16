@@ -25,7 +25,9 @@ Passionate about building scalable web applications with a strong problem-solvin
 - 📃 <a href="https://drive.google.com/file/d/1PAIcz3zjrIYvXF4ntgAiBSaEN2ktr9dn/view?usp=sharing" target="_blank" rel="noopener noreferrer">RESUME</a>
 
 
----
+<hr>
+<hr>
+
 ## 📊 GitHub Dashboard
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bikash-design-lab&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
@@ -44,7 +46,8 @@ Passionate about building scalable web applications with a strong problem-solvin
   </marquee>
 </p>
 
-</hr>
+<hr>
+<hr>
 
 ## 🔥<a href="https://voice-note-3d8b.vercel.app/" target="_blank" rel="noopener noreferrer"> My Latest Project: VoiceNote</a>
 A feature-rich **VoiceNote platform** built with modern web technologies.
