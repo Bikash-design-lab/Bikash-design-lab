@@ -8,7 +8,7 @@
 
 ## 🚀 MERN Stack Developer
 
-Passionate about building scalable web applications with a strong problem-solving mindset and a collaborative approach. I have **1200+ hours of coding experience** and thrive on learning new technologies, including **Generative AI**.
+Passionate about building scalable web applications with a strong problem-solving mindset and a collaborative approach. I have **2160+ hours of coding experience** and thrive on learning new technologies, including **Generative AI**.
 
 ---
 # [🌐 **Discover My Coding Journey on Bento**](https://bento.me/bikash-prasad-barnwal)
