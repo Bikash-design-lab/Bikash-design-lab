@@ -1,3 +1,13 @@
+<div style="border: 5px solid transparent; border-image: linear-gradient(45deg, #36BCF7, #FE6B8B, #764ABC, #36BCF7); border-image-slice: 1; animation: gradientBorder 6s linear infinite; padding: 20px; background: #1a1a1a; border-radius: 10px;">
+<style>
+@keyframes gradientBorder {
+  0% { border-image: linear-gradient(45deg, #36BCF7, #FE6B8B, #764ABC, #36BCF7); border-image-slice: 1; }
+  33% { border-image: linear-gradient(45deg, #FE6B8B, #764ABC, #36BCF7, #FE6B8B); border-image-slice: 1; }
+  66% { border-image: linear-gradient(45deg, #764ABC, #36BCF7, #FE6B8B, #764ABC); border-image-slice: 1; }
+  100% { border-image: linear-gradient(45deg, #36BCF7, #FE6B8B, #764ABC, #36BCF7); border-image-slice: 1; }
+}
+</style>
+
 <h1 align="center">👋 Hi, I'm Bikash Prasad Barnwal</h1>
 
 <p align="center">
@@ -121,7 +131,11 @@ A cutting-edge **VoiceNote platform** built with modern web technologies, showca
   </a>
 </p>
 
-📧 **Email:** <a href="mailto:Vmodi5425@gmail.com?subject=Looking%20to%20Connect&body=Hi%20Bikash,%20I%20saw%20your%20GitHub%20profile%20and%20would%20love%20to%20connect%20to%20discuss%20potential%20collaborations%20or%20opportunities." target="_blank">Vmodi5425@gmail.com</a>
+<p align="center">
+  <a href="mailto:Vmodi5425@gmail.com?subject=Let's%20connect%20to%20build%20some%20new%20-%20Let's%20Connect.&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20I'm%20interested%20in%20connecting%20to%20discuss%20potential%20opportunities.%0A%0ABest%20Regards,%0A[Your%20Name]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Vmodi5425@gmail.com-F9CA24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -138,3 +152,5 @@ A cutting-edge **VoiceNote platform** built with modern web technologies, showca
 ---
 
 🚀 **Ready to collaborate and build something amazing? Let's connect!**
+
+</div>
