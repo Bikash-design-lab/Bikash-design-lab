@@ -79,7 +79,7 @@ A cutting-edge **VoiceNote platform** built with modern web technologies, showca
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bikash-design-lab&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bikash-design-lab&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bikash-design-lab&theme=radical&hide_border=true&background=transparent&ring=1E90FF&fire=FE6B8B&currStreakNum=F9CA24&sideNums=F9CA24&currStreakLabel=F9CA24&sideLabels=F9CA24&dates=F9CA24" alt="GitHub Streak" />
 </p>
 
 <p align="center">
