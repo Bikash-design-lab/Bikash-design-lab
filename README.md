@@ -89,11 +89,11 @@ A cutting-edge **VoiceNote platform** built with modern web technologies, showca
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bikash-design-lab&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://img.shields.io/badge/Coding%20Streak-5%20days%20%7C%20Longest%2030%20days-fe6b8b?style=for-the-badge&logo=flame&logoColor=1e90ff" alt="Coding Streak" />
+  <img src="STREAK_BADGE_URL" alt="Coding Streak" />
 </p>
 
 <p align="center">
-  <strong>Current Coding Streak: 5 days</strong> | <strong>Longest Coding Streak: 30 days</strong>
+  <img src="https://streak-stats.demolab.com?user=Bikash-design-lab&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -132,7 +132,8 @@ A cutting-edge **VoiceNote platform** built with modern web technologies, showca
 </p>
 
 <p align="center">
-  <a href="mailto:Vmodi5425@gmail.com?subject=Let's%20connect%20to%20build%20some%20new%20-%20Let's%20Connect.&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20I'm%20interested%20in%20connecting%20to%20discuss%20potential%20opportunities.%0A%0ABest%20Regards,%0A[Your%20Name]" target="_blank">
+  <a href="mailto:Vmodi5425@gmail.com?subject=Exploring%20Potential%20Collaboration%20Opportunities&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20profile%20and%20was%20really%20impressed%20with%20your%20work.%20I’d%20love%20to%20connect%20and%20explore%20potential%20opportunities%20to%20collaborate%20on%20projects%20or%20initiatives%20that%20align%20with%20our%20shared%20interests.%0A%0APlease%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation%20—%20I’d%20be%20happy%20to%20discuss%20how%20we%20might%20work%20together.%0A%0ALooking%20forward%20to%20your%20response.%0A%0ABest%20regards,%0A[Your%20Full%20Name]%0A[Your Contact Information]%0A
+[Your GitHub / LinkedIn / Portfolio link]" target="_blank">
     <img src="https://img.shields.io/badge/Email-Vmodi5425@gmail.com-F9CA24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
