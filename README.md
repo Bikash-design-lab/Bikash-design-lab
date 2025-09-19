@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Web Developer** specializing in the **MERN stack** with over **2160+ hours of coding experience**. I thrive on solving complex problems, building scalable web applications, and embracing new technologies like **Generative AI** and **TypeScript**. My journey includes participating in a **48-hour hackathon**, where I delivered innovative solutions under pressure. 
+I'm a passionate **Full Stack Web Developer** specializing in the **MERN stack** with over **2160+ hours of coding experience**. I thrive on solving complex problems, building scalable web applications, and embracing new technologies like **Generative AI** and **TypeScript**. My journey includes participating in a **48-hour hackathon**, where I delivered innovative solutions under pressure.
 
 - 🌍 Based in **West Bengal, India**
 - 💡 Skilled in crafting **dynamic, responsive, and user-friendly applications**
@@ -79,7 +79,11 @@ A cutting-edge **VoiceNote platform** built with modern web technologies, showca
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bikash-design-lab&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bikash-design-lab&theme=radical&hide_border=true&background=transparent&ring=1E90FF&fire=FE6B8B&currStreakNum=F9CA24&sideNums=F9CA24&currStreakLabel=F9CA24&sideLabels=F9CA24&dates=F9CA24" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Coding%20Streak-5%20days%20%7C%20Longest%2030%20days-fe6b8b?style=for-the-badge&logo=flame&logoColor=1e90ff" alt="Coding Streak" />
+</p>
+
+<p align="center">
+  <strong>Current Coding Streak: 5 days</strong> | <strong>Longest Coding Streak: 30 days</strong>
 </p>
 
 <p align="center">
@@ -117,7 +121,7 @@ A cutting-edge **VoiceNote platform** built with modern web technologies, showca
   </a>
 </p>
 
-📧 **Email:** [Vmodi5425@gmail.com](mailto:Vmodi5425@gmail.com)
+📧 **Email:** <a href="mailto:Vmodi5425@gmail.com?subject=Looking%20to%20Connect&body=Hi%20Bikash,%20I%20saw%20your%20GitHub%20profile%20and%20would%20love%20to%20connect%20to%20discuss%20potential%20collaborations%20or%20opportunities." target="_blank">Vmodi5425@gmail.com</a>
 
 ---
 
@@ -128,7 +132,7 @@ A cutting-edge **VoiceNote platform** built with modern web technologies, showca
 - 🚀 Explore my work on [Bento](https://bento.me/bikash-prasad-barnwal) and [Portfolio](https://heybikash.vercel.app/)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bikash-design-lab&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bikash-design-lab&theme=radical&hide_border=true&show_months=true&date_format=mmm%20yyyy" alt="GitHub Activity Graph" />
 </p>
 
 ---
