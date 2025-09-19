@@ -1,13 +1,3 @@
-<div style="border: 5px solid transparent; border-image: linear-gradient(45deg, #36BCF7, #FE6B8B, #764ABC, #36BCF7); border-image-slice: 1; animation: gradientBorder 6s linear infinite; padding: 20px; background: #1a1a1a; border-radius: 10px;">
-<style>
-@keyframes gradientBorder {
-  0% { border-image: linear-gradient(45deg, #36BCF7, #FE6B8B, #764ABC, #36BCF7); border-image-slice: 1; }
-  33% { border-image: linear-gradient(45deg, #FE6B8B, #764ABC, #36BCF7, #FE6B8B); border-image-slice: 1; }
-  66% { border-image: linear-gradient(45deg, #764ABC, #36BCF7, #FE6B8B, #764ABC); border-image-slice: 1; }
-  100% { border-image: linear-gradient(45deg, #36BCF7, #FE6B8B, #764ABC, #36BCF7); border-image-slice: 1; }
-}
-</style>
-
 <h1 align="center">👋 Hi, I'm Bikash Prasad Barnwal</h1>
 
 <p align="center">
@@ -39,23 +29,11 @@ I'm a passionate **Full Stack Web Developer** specializing in the **MERN stack**
 - 📃 <a href="https://drive.google.com/file/d/1PAIcz3zjrIYvXF4ntgAiBSaEN2ktr9dn/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download My Resume</a>
 
 > **"Let's build something extraordinary together!"**
-
----
-
-## 🔥 Featured Project: [VoiceNote](https://voice-note-3d8b.vercel.app/)
-
-A cutting-edge **VoiceNote platform** built with modern web technologies, showcasing my ability to create innovative, user-focused applications.
-
-### 🌟 Key Features
-- **Voice Input**: Seamless speech-to-text conversion using `react-speech-recognition`
-- **AI Refinement**: Grammar correction and slang filtering powered by integrated AI
-- **Local Storage**: Persistent message saving without requiring user registration
-- **Message Control**: Edit and delete messages with ease
-- **Text-Free Interaction**: Voice-first input for a hands-free experience
-
 <p align="center">
-  <img width="45%" alt="VoiceNote Screenshot 1" src="https://github.com/user-attachments/assets/6c6fdfd5-d2f1-42ec-b980-2940f2fb6a45" />
-  <img width="45%" alt="VoiceNote Screenshot 2" src="https://github.com/user-attachments/assets/7fc9b2e8-4743-4369-b328-1a62c79e932b" />
+  <a href="mailto:Vmodi5425@gmail.com?subject=Exploring%20Potential%20Collaboration%20Opportunities&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20profile%20and%20was%20really%20impressed%20with%20your%20work.%20I’d%20love%20to%20connect%20and%20explore%20potential%20opportunities%20to%20collaborate%20on%20projects%20or%20initiatives%20that%20align%20with%20our%20shared%20interests.%0A%0APlease%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation%20—%20I’d%20be%20happy%20to%20discuss%20how%20we%20might%20work%20together.%0A%0ALooking%20forward%20to%20your%20response.%0A%0ABest%20regards,%0A[Your%20Full%20Name]%0A[Your Contact Information]%0A
+[Your GitHub / LinkedIn / Portfolio link]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Vmodi5425@gmail.com-F9CA24?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -89,10 +67,6 @@ A cutting-edge **VoiceNote platform** built with modern web technologies, showca
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bikash-design-lab&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="STREAK_BADGE_URL" alt="Coding Streak" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Bikash-design-lab&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -147,10 +121,29 @@ A cutting-edge **VoiceNote platform** built with modern web technologies, showca
 - 🚀 Explore my work on [Bento](https://bento.me/bikash-prasad-barnwal) and [Portfolio](https://heybikash.vercel.app/)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bikash-design-lab&theme=radical&hide_border=true&show_months=true&date_format=mmm%20yyyy" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bikash-design-lab&theme=radical&hide_border=true&show_months=true&date_format=mmm%20yy" alt="GitHub Activity Graph" />
 </p>
 
 ---
+
+## 🔥 Featured Project: [VoiceNote](https://voice-note-3d8b.vercel.app/)
+
+A cutting-edge **VoiceNote platform** built with modern web technologies, showcasing my ability to create innovative, user-focused applications.
+
+### 🌟 Key Features
+- **Voice Input**: Seamless speech-to-text conversion using `react-speech-recognition`
+- **AI Refinement**: Grammar correction and slang filtering powered by integrated AI
+- **Local Storage**: Persistent message saving without requiring user registration
+- **Message Control**: Edit and delete messages with ease
+- **Text-Free Interaction**: Voice-first input for a hands-free experience
+
+<p align="center">
+  <img width="45%" alt="VoiceNote Screenshot 1" src="https://github.com/user-attachments/assets/6c6fdfd5-d2f1-42ec-b980-2940f2fb6a45" />
+  <img width="45%" alt="VoiceNote Screenshot 2" src="https://github.com/user-attachments/assets/7fc9b2e8-4743-4369-b328-1a62c79e932b" />
+</p>
+
+---
+
 
 🚀 **Ready to collaborate and build something amazing? Let's connect!**
 
