@@ -126,21 +126,44 @@ I'm a passionate **Full Stack Web Developer** specializing in the **MERN stack**
 
 ---
 
-## 🔥 Featured Project: [VoiceNote](https://voice-note-3d8b.vercel.app/)
+## 🔥 Featured Project: [CropConnect](https://crop-connect-zeta.vercel.app/)
 
-A cutting-edge **VoiceNote platform** built with modern web technologies, showcasing my ability to create innovative, user-focused applications.
+A **Market place platform** that connects Buyer/Vendors with Farmers. Built with modern web technologies, showcasing my ability to create innovative, user-focused applications.
 
 ### 🌟 Key Features
-- **Voice Input**: Seamless speech-to-text conversion using `react-speech-recognition`
-- **AI Refinement**: Grammar correction and slang filtering powered by integrated AI
-- **Local Storage**: Persistent message saving without requiring user registration
-- **Message Control**: Edit and delete messages with ease
-- **Text-Free Interaction**: Voice-first input for a hands-free experience
+- 🔐 Secured Authentication using JWT
+- 🔁 Password Reset functionality via email
+- 🧑‍🌾👨‍💼 Role-based Access Control for Farmers and Buyers
+- 📬 Email Alerts via NodeMailer
+- 🌤️ Live Weather Updates using real-time APIs
+- 🌽 Add Crops to the marketplace with images, descriptions, and pricing
+- 🔍 Product Filtering & Sorting by name, price, category, etc.
+- ⏱️ Rate Limiter – max 25 requests per 15 minutes for enhanced security
+- 🤳 Cloudinary - Profile image handling made easy with Multer + Cloudinary.
 
-<p align="center">
-  <img width="45%" alt="VoiceNote Screenshot 1" src="https://github.com/user-attachments/assets/6c6fdfd5-d2f1-42ec-b980-2940f2fb6a45" />
-  <img width="45%" alt="VoiceNote Screenshot 2" src="https://github.com/user-attachments/assets/7fc9b2e8-4743-4369-b328-1a62c79e932b" />
-</p>
+
+📱 Application Flow & 🎛️ Dashboard
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/eb68dc88-f939-4adc-8aee-dd9ad855b358" width="400px" alt="Dashboard"/>
+<br><i>↗️ Comprehensive analytics & controls</i>
+⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+📊 Market Analytics
+<img src="https://github.com/user-attachments/assets/079be782-1d7c-42d5-a080-961498c71b71" width="400px" alt="Data Visualization"/>
+<br><i>↗️ Middlemen vs Farmers pricing comparison</i>
+⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+👤 Profile Management
+<img src="https://github.com/user-attachments/assets/a167c6ee-c4d6-4490-bf3d-00d083891c4e" width="400px" alt="Profile Page"/>
+<br><i>↗️ User-friendly profile interface</i>
+⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+🛒 Product Marketplace
+<img src="https://github.com/user-attachments/assets/f3603065-71a5-4d17-b17a-054367f0b441" width="400px" alt="Browse Products"/>
+<br><i>↗️ Easy browsing & purchasing experience</i>
+⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+↗🎨 Modern UI Design
+<img src="https://github.com/user-attachments/assets/69b890ab-915d-4199-85e1-e7cc5c8f5ac0" width="400px" alt="Footer"/>
+<br><i> ↗️Clean & professional layout design</i>
+</div>
 
 ---
 
@@ -148,3 +171,4 @@ A cutting-edge **VoiceNote platform** built with modern web technologies, showca
 🚀 **Ready to collaborate and build something amazing? Let's connect!**
 
 </div>
+
