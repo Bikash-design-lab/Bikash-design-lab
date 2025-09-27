@@ -28,7 +28,7 @@ I'm a passionate **Full Stack Web Developer** specializing in the **MERN stack**
 - 🎯 Currently mastering **TypeScript** to elevate my development skills
 - 📃 <a href="https://drive.google.com/file/d/1PAIcz3zjrIYvXF4ntgAiBSaEN2ktr9dn/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download My Resume</a>
 
-> **"Let's build something extraordinary together!"**
+> **"Let build something extraordinary together!"**
 <p align="center">
   <a href="mailto:Vmodi5425@gmail.com?subject=Exploring%20Potential%20Collaboration%20Opportunities&body=Hi%20Bikash%20Prasad%20Barnwal,%0A%0AI%20came%20across%20your%20profile%20and%20was%20really%20impressed%20with%20your%20work.%20I’d%20love%20to%20connect%20and%20explore%20potential%20opportunities%20to%20collaborate%20on%20projects%20or%20initiatives%20that%20align%20with%20our%20shared%20interests.%0A%0APlease%20let%20me%20know%20if%20you’d%20be%20open%20to%20a%20conversation%20—%20I’d%20be%20happy%20to%20discuss%20how%20we%20might%20work%20together.%0A%0ALooking%20forward%20to%20your%20response.%0A%0ABest%20regards,%0A[Your%20Full%20Name]%0A[Your Contact Information]%0A
 [Your GitHub / LinkedIn / Portfolio link]" target="_blank">
