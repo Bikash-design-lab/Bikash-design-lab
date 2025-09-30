@@ -144,6 +144,7 @@ A **Market place platform** that connects Buyer/Vendors with Farmers. Built with
 
 📱 Application Flow & 🎛️ Dashboard
 <div align="center">
+<img width="2983" height="1256" alt="diagram-export-29-09-2025-12_14_15" src="https://github.com/user-attachments/assets/634243fc-f29f-4e13-a819-8217a7651ae4" />
 
 <img src="https://github.com/user-attachments/assets/eb68dc88-f939-4adc-8aee-dd9ad855b358" width="400px" alt="Dashboard"/>
 <br><i>↗️ Comprehensive analytics & controls</i>
