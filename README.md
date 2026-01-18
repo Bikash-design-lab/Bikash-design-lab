@@ -19,8 +19,7 @@
 ---
 
 ## 🚀 About Me
-
-I'm a passionate **Full Stack Web Developer** specializing in the **MERN stack** with over **2160+ hours of coding experience**. I thrive on solving complex problems, building scalable web applications, and embracing new technologies like **Generative AI** and **TypeScript**. My journey includes participating in a **48-hour hackathon**, where I delivered innovative solutions under pressure.
+I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding experience**. Currently working as a **Software Engineer at Codem**, I have hands-on experience in **developing, testing, and deploying** scalable products using modern tech stacks and **Agile methodologies**. I enjoy solving complex problems and exploring new technologies like **TypeScript** and **Generative AI**. I’ve also participated in a **48-hour hackathon**, delivering innovative solutions under tight deadlines.
 
 - 🌍 Based in **West Bengal, India**
 - 💡 Skilled in crafting **dynamic, responsive, and user-friendly applications**
