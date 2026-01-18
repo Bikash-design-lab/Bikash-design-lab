@@ -106,9 +106,6 @@ I'm a passionate **Full Stack Web Developer** specializing in the **MERN stack**
   <a href="https://bento.me/bikash-prasad-barnwal" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Bento" />
   </a>
-  <a href="https://wa.me/8250204797" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
 </p>
 
 <p align="center">
