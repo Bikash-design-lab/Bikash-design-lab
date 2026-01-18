@@ -41,6 +41,9 @@ I'm a passionate **Full Stack Web Developer** specializing in the **MERN stack**
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
