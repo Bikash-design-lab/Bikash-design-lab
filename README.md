@@ -25,7 +25,7 @@ I'm a passionate **Full Stack Software Engineer**, with **2160+ hours of coding 
 - 💡 Skilled in crafting **dynamic, responsive, and user-friendly applications**
 - 📈 Always learning and adapting to cutting-edge tools and frameworks
 - 🎯 Currently mastering **TypeScript** to elevate my development skills
-- 📃 <a href="https://drive.google.com/file/d/1PAIcz3zjrIYvXF4ntgAiBSaEN2ktr9dn/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download My Resume</a>
+- 📃 <a href="https://drive.google.com/file/d/1JcOxCO-vno3C5nB2ypPcFbes1vfjP20m/view" target="_blank" rel="noopener noreferrer">Download My Resume</a>
 
 > **"Let build something extraordinary together!"**
 <p align="center">
